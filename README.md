@@ -1,4 +1,4 @@
-# fivem-WeaponCraft
+# fivem-WeaponCraft QB-Core
 
 
 Ücretsiz Script!
